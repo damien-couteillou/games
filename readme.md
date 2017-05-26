@@ -6,7 +6,7 @@ The goal of this repository is to learn how to make html5 canvas games with vani
 
 ### Current Games
 
-- [Pong](https://github.com/damien-couteillou/games/pong)
+- [Pong](https://github.com/damien-couteillou/games/tree/master/pong)
 
 ### Future Games
 
