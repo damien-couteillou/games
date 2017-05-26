@@ -6,9 +6,9 @@ The goal of this repository is to learn how to make html5 canvas games with vani
 
 ### Current Games
 
-### Future Games
+- [Pong](https://github.com/damien-couteillou/games/pong)
 
-- Pong
+### Future Games
 
 - Brick
 
