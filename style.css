@@ -16,5 +16,5 @@ body {
 
 canvas {
 	image-rendering: pixelated;
-	height: 100%;
+    height: 100%;
 }

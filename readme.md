@@ -8,10 +8,12 @@ The goal of this repository is to learn how to make html5 canvas games with vani
 
 - [Pong](https://github.com/damien-couteillou/games/tree/master/pong)
 
+### In development
+
+- Tetris
+
 ### Future Games
 
 - Brick
 
 - Space Invaders
-
-- Tetris
