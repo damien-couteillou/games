@@ -13,6 +13,7 @@
         "stylelint-config-standard": "^16.0.0"
     },
     "scripts": {
-        "pong": "browserify pong/src/app.js -t babelify -o pong/build/app.js -d"
+        "pong": "browserify pong/src/app.js -t babelify -o pong/build/app.js -d",
+        "tetris": "browserify tetris/src/app.js -t babelify -o tetris/build/app.js -d"
     }
 }
