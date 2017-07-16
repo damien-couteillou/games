@@ -10,10 +10,13 @@
         "eslint-plugin-jsx-a11y": "^6.0.2",
         "eslint-plugin-react": "^7.1.0",
         "stylelint": "^7.13.0",
-        "stylelint-config-standard": "^16.0.0"
+        "stylelint-config-standard": "^16.0.0",
+        "watch": "^1.0.2"
     },
     "scripts": {
         "pong": "browserify pong/src/app.js -t babelify -o pong/build/app.js -d",
-        "tetris": "browserify tetris/src/app.js -t babelify -o tetris/build/app.js -d"
+        "watch-pong": "watch 'npm run pong' pong/src",
+        "tetris": "browserify tetris/src/app.js -t babelify -o tetris/build/app.js -d",
+        "watch-tetris": "watch 'npm run tetris' tetris/src"
     }
 }
